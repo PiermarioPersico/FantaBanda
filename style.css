@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+    color: royalblue;
+}
+body{
+    background-color: rgba(65, 105, 225, 0.3);
+}
+header{
+    display: flex;
+    justify-content: space-around;
+
+    
+    border-bottom: 4px solid royalblue;
+}
+header h1{
+    font-size: 30px;
+}
+.strong{
+    font-size: 38px;
+}
+.bell{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+    font-size: 30px;
+    text-decoration: none;
+
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+}
+.roles{
+    display: flex;
+}
+.roles a{
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    border: 3px solid royalblue;
+    padding: 5px;
+    margin: 20px;
+    text-decoration: none;
+    background-color:rgba(65, 105, 225, 0.2);
+}
+.roles img{
+    height: 20px;
+    margin-right: 5px;
+}
+.myteam{
+    border: 5px solid royalblue;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+}
+.myteam img{
+    width: 80%;
+    border-radius: 20px;
+    margin: 5px;
+    border: 5px solid royalblue;
+}
+.ranking{
+    margin: 20px;
+    border: 5px solid royalblue;
+    border-radius: 20px;
+    width: 95%;
+}
+.ranking h1{
+    text-align: center;
+}
+.tableclass{
+    display: flex;
+    justify-content: space-around;
+    border-top: 3px solid royalblue;
+    border-bottom: 3px solid royalblue;
+    padding: 5px;
+    background-color:rgba(65, 105, 225, 0.3);
+    color: black;
+}
+
+.users{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 4px solid royalblue;
+}
+.users div{
+    margin: 20px;
+}
+.users img{
+    height:35px;
+}
+.score{
+    text-align: center;
+    color: black;
+}
+
+.last{
+    border: none;
+}
+
+.takeback{
+    margin: 10px;
+    text-decoration: none;
+    text-align: center;
+    border-top: 3px solid royalblue;
+    border-bottom: 3px solid royalblue;
+}

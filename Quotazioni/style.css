@@ -1,0 +1,29 @@
+#chosen{
+    background-color:rgba(65, 105, 225, 0.7);
+    color: white;
+}
+.rolesTitle{
+    text-align: center;
+    padding: 15px;
+}
+.ChoseRoles{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.ChoseRoles a{
+    text-decoration: none;
+}
+
+.quotaz{
+    border: 3px solid royalblue;
+    border-radius: 10px;
+    margin-top: 10px;
+
+    text-align: center;
+    padding: 5px;
+}
+
+.quotaz p{
+    color: black;
+}

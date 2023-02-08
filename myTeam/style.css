@@ -1,0 +1,14 @@
+.teamName{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
+
+.tableclass,
+.users-name, 
+.users-team,
+.users-score{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}

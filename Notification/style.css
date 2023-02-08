@@ -1,0 +1,10 @@
+.notific{
+    text-align: center;
+    border:3px solid royalblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.date{
+    color: black;
+}
