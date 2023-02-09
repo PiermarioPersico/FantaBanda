@@ -93,9 +93,12 @@ main{
     justify-content: space-between;
     align-items: center;
     border-bottom: 4px solid royalblue;
+    max-width: fit-content;
 }
 .users div{
     margin: 20px;
+    width: 80em
+    
 }
 .users img{
     height:35px;

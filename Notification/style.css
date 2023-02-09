@@ -8,3 +8,9 @@
 .date{
     color: black;
 }
+.bell{
+    border:3px solid royalblue;
+    border-radius: 30px;
+
+    color: aliceblue;
+}
